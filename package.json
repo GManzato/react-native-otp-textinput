@@ -27,7 +27,7 @@
     "react": "^16.8.6"
   },
   "peerDependencies": {
-    "react-native": "^0.60.0"
+    "react-native": "^0.72"
   },
   "author": "Naveen Vignesh.B <naveenvignesh5.nv@gmail.com>",
   "license": "MIT",
